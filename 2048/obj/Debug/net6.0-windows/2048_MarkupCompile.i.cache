@@ -1,0 +1,20 @@
+﻿2048
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Macie\OneDrive\Pulpit\Projects\2048 MVVM v.2\2048\obj\Debug\net6.0-windows\
+_2048
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Macie\OneDrive\Pulpit\Projects\2048 MVVM v.2\2048\App.xaml
+5-429481040
+
+28-381320893
+2321799503051
+MainWindow.xaml;Views\GameView.xaml;Views\LoadGameView.xaml;Views\ScoreboardView.xaml;Views\StartView.xaml;
+
+False
+
